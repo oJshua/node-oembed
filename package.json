@@ -1,5 +1,5 @@
 {
-  "name": "@jamie452/oembed",
+  "name": "oembed",
   "version": "0.1.1",
   "description": "oEmbed consumer library and tools",
   "homepage": "http://github.com/Jamie452/node-oembed",
